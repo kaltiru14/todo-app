@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "typescript-tour",
+  "steps": [
+    {
+      "file": "app/page.tsx",
+      "description": "containero f the whole page\r\n",
+      "line": 3
+    }
+  ]
+}
